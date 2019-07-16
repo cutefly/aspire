@@ -1,0 +1,20 @@
+2019-07-16T22:54:40+09:00 [DEBUG] [myLogger] My second message.
+2019-07-16T22:54:40+09:00 [INFO ] [myLogger] My third message.
+2019-07-16T22:54:40+09:00 [WARN ] [myLogger] My fourth message.
+2019-07-16T22:54:40+09:00 [ERROR] [myLogger] My fifth message.
+2019-07-16T22:54:40+09:00 [FATAL] [myLogger] My sixth message.
+2019-07-16T23:08:49+09:00 [DEBUG] [myLogger] My second message.
+2019-07-16T23:08:49+09:00 [INFO ] [myLogger] My third message.
+2019-07-16T23:08:49+09:00 [WARN ] [myLogger] My fourth message.
+2019-07-16T23:08:49+09:00 [ERROR] [myLogger] My fifth message.
+2019-07-16T23:08:49+09:00 [FATAL] [myLogger] My sixth message.
+2019-07-16T23:36:23+09:00 [DEBUG] [myLogger] My second message.
+2019-07-16T23:36:23+09:00 [INFO ] [myLogger] My third message.
+2019-07-16T23:36:23+09:00 [WARN ] [myLogger] My fourth message.
+2019-07-16T23:36:23+09:00 [ERROR] [myLogger] My fifth message.
+2019-07-16T23:36:23+09:00 [FATAL] [myLogger] My sixth message.
+2019-07-16T23:46:59+09:00 [DEBUG] [myLogger] My second message.
+2019-07-16T23:46:59+09:00 [INFO ] [myLogger] My third message.
+2019-07-16T23:46:59+09:00 [WARN ] [myLogger] My fourth message.
+2019-07-16T23:46:59+09:00 [ERROR] [myLogger] My fifth message.
+2019-07-16T23:46:59+09:00 [FATAL] [myLogger] My sixth message.
